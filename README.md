@@ -26,7 +26,7 @@ I am actively seeking **Quantitative Research** and **Quantitative Trading** opp
 - **Languages:** Python, Java, C
 - **Machine Learning & Data Science:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, XGBoost
 - **Quant Finance:** Stochastic Calculus, Derivative Pricing, Time-Series Modeling, Monte Carlo Methods, Optimization
-- **Tools & Systems:** Git, SQL, Linux, Jenkins
+- **Tools & Systems:** Git, SQL, Linux, Jenkins, Bloomberg
 
 ---
 
