@@ -67,9 +67,4 @@ I am actively seeking **Quantitative Research** and **Quantitative Trading** opp
 </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanchemla&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanchemla&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+--
