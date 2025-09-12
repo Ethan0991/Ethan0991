@@ -17,7 +17,7 @@ I am actively seeking **Quantitative Research** and **Quantitative Trading** opp
   - Designed **execution algorithms** for FX and Bonds using Stochastic Optimization and Deep Reinforcement Learning.
   - Developed **anomaly detection tools** for Equity Derivatives volatility data, achieving 99% accuracy in production.
   - Built predictive XGBoost models for **counterparty credit risk** assessment.
-- 💡 My core interests lie in derivative pricing, high-frequency data analysis, quantitative investment strategies, and applying machine learning to market prediction.
+- 💡 My core interests lie in algorithmic trading, high-frequency data analysis, quantitative investment strategies, and applying machine learning to market prediction.
 
 ---
 
