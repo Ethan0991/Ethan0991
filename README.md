@@ -9,11 +9,11 @@ I am actively seeking **Quantitative Research** and **Quantitative Trading** opp
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Currently pursuing my **MA in Mathematics of Finance** at **Columbia University** (Class of 2026).
-- 🧠 Holds an MSc in **Artificial Intelligence & Data Science** from **PSL University (Dauphine, ENS)** and a BSc in **Mathematics & Computer Science** from **Université de Paris**.
-- 🏦 Experienced in quantitative roles at **Natixis CIB** and **Crédit Agricole CIB**, where I:
+- Currently pursuing my **MA in Mathematics of Finance** at **Columbia University** (Class of 2026).
+- Holds an MSc in **Artificial Intelligence & Data Science** from **PSL University (Dauphine, ENS)** and a BSc in **Mathematics & Computer Science** from **Université de Paris**.
+- Experienced in quantitative roles at **Natixis CIB** and **Crédit Agricole CIB**, where I:
   - Designed **execution algorithms** for FX and Bonds using Stochastic Optimization and Deep Reinforcement Learning.
   - Developed **anomaly detection tools** for Equity Derivatives volatility data, achieving 99% accuracy in production.
   - Built predictive XGBoost models for **counterparty credit risk** assessment.
@@ -21,7 +21,7 @@ I am actively seeking **Quantitative Research** and **Quantitative Trading** opp
 
 ---
 
-### 🛠️ My Tech Stack & Skills
+### My Tech Stack & Skills
 
 - **Languages:** Python, Java, C
 - **Machine Learning & Data Science:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, XGBoost
