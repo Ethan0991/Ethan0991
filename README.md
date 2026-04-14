@@ -5,8 +5,6 @@
 
 I am a **Master's in Mathematics of Finance candidate at Columbia University** with a deep passion for applying advanced computational techniques to solve complex problems in financial markets. My background bridges the gap between **Artificial Intelligence**, **Computer Science**, and **Quantitative Finance**, with hands-on experience in building and deploying predictive models and algorithmic strategies at top-tier investment banks.
 
-I am actively seeking **Quantitative Research** and **Quantitative Trading** opportunities in New York for 2026.
-
 ---
 
 ### About Me
